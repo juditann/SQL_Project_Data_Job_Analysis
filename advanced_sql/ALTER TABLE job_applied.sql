@@ -1,0 +1,5 @@
+ALTER TABLE job_applied
+ADD CONTACT VARCHAR(50);
+
+SELECT *
+FROM job_applied;
